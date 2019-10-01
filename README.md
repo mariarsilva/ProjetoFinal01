@@ -12,4 +12,4 @@ O projeto final possui três packages:
   - View 
   - Controller
   
-  2) Projeto dos Padrões estudados na disciplina Métodos do Projeto de Software: foram implementados 8 padrões que se encontram no arquivo ProjetoPadroes.rar
+2) Projeto dos Padrões estudados na disciplina Métodos do Projeto de Software: foram implementados 8 padrões que se encontram no arquivo ProjetoPadroes.rar
