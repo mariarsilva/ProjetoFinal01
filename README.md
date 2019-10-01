@@ -27,4 +27,4 @@ O projeto final possui três packages:
 
 Os padrões escolhidos foram os seguintes:
 - Singleton
-- 
+- State
